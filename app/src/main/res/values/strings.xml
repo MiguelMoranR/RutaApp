@@ -3,4 +3,6 @@
     <string name="bienvenido">Bienvenido!!!</string>
     <string name="esta_es_la_aplicaci_n_ruteapp">Esta es la aplicación RuteApp</string>
     <string name="programador_de_rutas_de_transporte">Programador de rutas de transporte</string>
+    <string name="digite_su_usuario">Digite su usuario...</string>
+    <string name="digite_su_contrase_a">Digite su contraseña</string>
 </resources>
