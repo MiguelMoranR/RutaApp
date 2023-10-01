@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RutaApp</string>
+    <string name="bienvenido">Bienvenido!!!</string>
+    <string name="esta_es_la_aplicaci_n_ruteapp">Esta es la aplicación RuteApp</string>
+    <string name="programador_de_rutas_de_transporte">Programador de rutas de transporte</string>
+</resources>
